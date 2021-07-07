@@ -27,7 +27,7 @@
 ### Back-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springbootio-icon.svg" alt="Springboot" height="50" />  
+<img style="margin: 10px" src="file:///C:/Users/ahsjd/Downloads/intellijidea.svg" alt="Springboot" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
