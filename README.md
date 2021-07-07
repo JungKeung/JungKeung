@@ -1,6 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungKeung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
- -  **취업 준비생**
+ ### **취업 준비생**
+ ## **프로젝트 진행**
+ - JkBoard
+ 
+ ## **프로젝트 완성**
+ - Hobby 국비 프로젝트 완성
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
