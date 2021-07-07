@@ -5,7 +5,7 @@
  - JkBoard
  
  ## **프로젝트 완성**
- - Hobby 국비 프로젝트 완성
+ - 국비 팀 프로젝트 완성(취미활동)
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -27,7 +27,7 @@
 ### Back-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="file:///C:/Users/ahsjd/Downloads/intellijidea.svg" alt="Springboot" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -38,7 +38,6 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/intellijidea-original.svg" alt="intelliji" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
