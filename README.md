@@ -6,7 +6,7 @@
  
  ## **프로젝트 완성**
  - 국비 팀 프로젝트 완성(취미활동을 공유하고 수강 신청을 할 수 있는 서비스)
- - AWS Ec2,S3,RDS, 세팅작업, Oauth2 ㅗㄹ그인구현, 게시판 구현 담당
+ - AWS Ec2,S3,RDS, 세팅작업, Oauth2 로그인구현, 게시판 구현 담당
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
