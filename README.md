@@ -7,7 +7,7 @@
  - 국비학원 팀 프로젝트 
  - 취미활동을 공유하고 수강 신청을 할 수 있는 서비스
  - AWS(Ec2/RDS/S3), 세팅작업, 소셜로그인(Oauth2) 구현, 게시판 구현
-## My Skill Set  
+## **My Skill Set**  
 <table><tr><td valign="top" width="33%">
 
 
