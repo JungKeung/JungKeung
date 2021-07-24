@@ -8,7 +8,7 @@
  - 취미활동을 공유하고 수강 신청을 할 수 있는 서비스
  - AWS(Ec2/RDS/S3), 세팅작업, 소셜로그인(Oauth2) 구현, 게시판 구현
 ## **My Skill Set**  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="35%">
 
 
 
@@ -21,7 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="35%">
+</td><td valign="top" width="38%">
 
 
 
