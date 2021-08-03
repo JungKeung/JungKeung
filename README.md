@@ -10,7 +10,7 @@
 
 
 ## **My Skill Set**  
-<table><tr><td valign="top" width="35%">
+<table><tr><td valign="top" width="30%">
 
 
 
@@ -23,7 +23,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="30%">
 
 
 
@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /> 
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="30%">
 
 
 
