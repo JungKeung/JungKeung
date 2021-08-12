@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungKeung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
- ## **진행중인 프로젝트**
+ ## **진행중인 프로젝트!!**
  - Jk_Board
  
- ## **완성된 프로젝트**
+ ## **완료된 프로젝트!!**
  - 국비학원 팀 프로젝트 
  - 취미활동을 공유하고 수강 신청을 할 수 있는 서비스
  - AWS(Ec2/RDS/S3), 세팅작업, 소셜로그인(Oauth2) 구현, 게시판 구현
