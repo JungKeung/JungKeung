@@ -40,5 +40,6 @@
 </td></tr></table>  
 
 <br/>  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungkeung)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungKeung&show_icons=true&theme=radical)
+
  
